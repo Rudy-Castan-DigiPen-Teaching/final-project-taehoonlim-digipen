@@ -1,4 +1,7 @@
-
+//taehoon lim
+//cs099
+//2020spring
+//final project
 class NoiseLoop{
   constructor(d,min,max){
     this.d =d 
