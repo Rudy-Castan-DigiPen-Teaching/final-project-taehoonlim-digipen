@@ -1,3 +1,7 @@
+//taehoon lim
+//cs099
+//2020spring
+//final project
 class Button
 {
     constructor(center_x = 0, center_y = 0, button_label = "Click Me")
