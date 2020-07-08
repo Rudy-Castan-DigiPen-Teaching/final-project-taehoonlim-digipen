@@ -1,3 +1,7 @@
+//taehoon lim
+//cs099
+//2020spring
+//final project
 class MAINMENUSCREEN {
   constructor() {
     this.play = new Button(800, 500, "play");
